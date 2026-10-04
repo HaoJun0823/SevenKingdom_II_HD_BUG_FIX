@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.37530.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SevenKingdom_II_HD_Bug_Fix", "SevenKingdom_II_HD_Bug_Fix.vcxproj", "{E47DF43F-5AA9-4503-B72A-B23EB8F47C16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E47DF43F-5AA9-4503-B72A-B23EB8F47C16}.Debug|x64.ActiveCfg = Debug|x64
+		{E47DF43F-5AA9-4503-B72A-B23EB8F47C16}.Debug|x64.Build.0 = Debug|x64
+		{E47DF43F-5AA9-4503-B72A-B23EB8F47C16}.Debug|x86.ActiveCfg = Debug|Win32
+		{E47DF43F-5AA9-4503-B72A-B23EB8F47C16}.Debug|x86.Build.0 = Debug|Win32
+		{E47DF43F-5AA9-4503-B72A-B23EB8F47C16}.Release|x64.ActiveCfg = Release|x64
+		{E47DF43F-5AA9-4503-B72A-B23EB8F47C16}.Release|x64.Build.0 = Release|x64
+		{E47DF43F-5AA9-4503-B72A-B23EB8F47C16}.Release|x86.ActiveCfg = Release|Win32
+		{E47DF43F-5AA9-4503-B72A-B23EB8F47C16}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {793A73E8-D3B7-4E0E-BFDA-0FDC4D9C7B88}
+	EndGlobalSection
+EndGlobal
